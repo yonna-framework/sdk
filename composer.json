@@ -1,0 +1,26 @@
+
+{
+  "name": "yonna/sdk",
+  "description": "Yonna SDK 集合包",
+  "license": "MIT",
+  "type": "library",
+  "keywords": [
+    "php",
+    "yonna",
+    "framework",
+    "sdk"
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Yonna\\Sdk\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "hunzsig",
+      "email": "mzyhaohaoren@qq.com",
+      "homepage": "https://www.hunzsig.org"
+    }
+  ]
+}
